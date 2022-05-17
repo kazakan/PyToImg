@@ -18,7 +18,7 @@ def fibonacci(n):
 In bash, type
 
 ``` bash
-python ./src/main.py -t dt2 -n 1
+python ./src/main.py ./codes_to_cvt/fibonacci.py -t dt2 -n 1
 ```
 
 Result is
