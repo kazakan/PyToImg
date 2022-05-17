@@ -1,0 +1,4 @@
+codes_to_cvt
+out
+*__pycache__*
+venv
